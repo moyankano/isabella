@@ -409,6 +409,3 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
-module:
-  imports:
-    - path: github.com/basa-casa/hugo-scms-admin
