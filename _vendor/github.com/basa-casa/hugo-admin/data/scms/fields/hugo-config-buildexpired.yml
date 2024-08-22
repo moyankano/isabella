@@ -1,0 +1,6 @@
+label: build Expired
+name: buildExpired
+widget: boolean
+field_type: boolean
+required: false
+hint: Include content already expired.

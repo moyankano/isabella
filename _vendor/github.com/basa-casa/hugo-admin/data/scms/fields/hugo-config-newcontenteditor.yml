@@ -1,0 +1,6 @@
+label: new Content Editor
+name: newContentEditor
+widget: string
+field_type: string
+required: false
+hint: The editor to use when creating new content.

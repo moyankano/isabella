@@ -1,0 +1,6 @@
+label: pluralize List Titles
+name: pluralizeListTitles
+widget: boolean
+field_type: boolean
+required: false
+hint: Pluralize titles in lists.

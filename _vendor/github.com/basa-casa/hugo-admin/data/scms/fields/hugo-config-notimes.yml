@@ -1,0 +1,6 @@
+label: no Times
+name: noTimes
+widget: boolean
+field_type: boolean
+required: false
+hint: Don't sync modification time of files.

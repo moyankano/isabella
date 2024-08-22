@@ -1,0 +1,6 @@
+label: themes Dir
+name: themesDir
+widget: string
+field_type: string
+required: false
+hint: The directory where Hugo reads the themes from.

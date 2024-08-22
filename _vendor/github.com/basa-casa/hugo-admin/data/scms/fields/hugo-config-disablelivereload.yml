@@ -1,0 +1,6 @@
+label: disable Live Reload
+name: disableLiveReload
+widget: boolean
+field_type: boolean
+required: false
+hint: Disable automatic live reloading of browser window.
